@@ -39,6 +39,6 @@ Haz clic en el enlace a continuación para ver un video de demostración de la a
 
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/tomepro/Proyecto-Personal.git
 2. Abre el proyecto en Android Studio.
 3. Compila y ejecuta la app en un emulador o dispositivo físico.
